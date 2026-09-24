@@ -4,7 +4,7 @@
 
 💻 Tenho interesse em desenvolvimento de software e venho construindo minha experiência por meio de projetos acadêmicos, estudos e prática.
 
-## 🛠️ Tecnologias com as quais tenho contato
+## 🛠️ Tecnologias e ferramentas
 
 * C#
 * .NET
@@ -23,7 +23,6 @@
 * Angular
 * React
 * Node.js
-* Desenvolvimento Full Stack
 
 ## 🚀 Projetos
 
