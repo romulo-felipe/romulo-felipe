@@ -38,19 +38,13 @@ Projeto pessoal desenvolvido para praticar desenvolvimento de aplicações, oper
 
 Projeto acadêmico desenvolvido durante a graduação na PUC Minas.
 
-🔗 [Repositório no GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-2-e1-proj-web-t5-feira-virtual)
-
 ### Smart Wash
 
 Projeto acadêmico desenvolvido na PUC Minas para gerenciamento e acompanhamento de máquinas de lavanderia.
 
-🔗 [Repositório no GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-2-e3-proj-mov-t5-smart-wash)
-
 ### Salve as Mina
 
 Projeto acadêmico desenvolvido na PUC Minas para cadastro e gerenciamento de ocorrências.
-
-🔗 [Repositório no GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-1-e2-proj-int-t5-grupo-1-salve-as-mina)
 
 ## 🎯 Objetivo
 
